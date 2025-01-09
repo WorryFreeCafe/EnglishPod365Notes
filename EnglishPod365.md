@@ -37,7 +37,7 @@ first class 头等舱；
 Qatar 卡塔尔；  
 five course meal  五道菜餐；
 
-# 4:I need an assistant! 我需要一个助手！
+# 4: I need an assistant! 我需要一个助手！
 assistant 助理，助手；
 intern 实习生；
 resources 资源；
@@ -54,7 +54,7 @@ photocopying things 复印东西；
 gained so much experience. 积累了丰富的经验；  
 that's mostly the case. 大多数情况都是这样；  
 
-# 5:Cut In Line 插队
+# 5: Cut In Line 插队
 the end of the line is over there. 队尾在那儿；  
 I think there's punching. 我觉得有人在打人；  
 impatient man 不耐烦的人；  
