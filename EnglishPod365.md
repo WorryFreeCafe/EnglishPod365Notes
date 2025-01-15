@@ -1,3 +1,11 @@
+Putting it together.
+
+Fluency Builder：
+In Fluency Builder, we give you some great useful
+phrases to help you express your ideas clearly .
+我们给你一些很好的的、实用的短语来帮助你清楚地表达你的想法。
+
+
 # 1：difficult customer 难对付的顾客
 not even in english 甚至连英语都没有；  
 complimentary 赞美的，免费的；  
@@ -37,7 +45,7 @@ first class 头等舱；
 Qatar 卡塔尔；  
 five course meal  五道菜餐；
 
-# 4: I need an assistant! 我需要一个助手！
+# 4:I need an assistant! 我需要一个助手！
 assistant 助理，助手；
 intern 实习生；
 resources 资源；
@@ -54,7 +62,7 @@ photocopying things 复印东西；
 gained so much experience. 积累了丰富的经验；  
 that's mostly the case. 大多数情况都是这样；  
 
-# 5: Cut In Line 插队
+# 5:Cut In Line 插队
 the end of the line is over there. 队尾在那儿；  
 I think there's punching. 我觉得有人在打人；  
 impatient man 不耐烦的人；  
@@ -77,3 +85,29 @@ to form a queue. 形成一个队列；
 reach around 四处寻找；  
 shoving through 挤过去；  
  stick your hand out. 伸出你的手；
+
+ # 6：Road Trip 公路旅行
+You get to get in a car. 你得坐上车,你可以上车；  
+The car is packed 车子已经装好了；  
+we have munchies and music  我们有小吃和音乐；  
+Did you fill up the tank? 你加满油了吗？  
+it's all set 一切准备就绪；  
+We've got all our bases covered. 我们已经做好了一切准备;
+make a pit stop ? 做个中途停留？  
+munchies 小吃；  
+hurricane hits. 以防飓风来袭。
+Let's get going. 我们出发吧。
+let's get down to business 直奔主题；言归正传,我们开始谈正事吧
+
+# 7：Virus 病毒
+computer freezes 电脑死机。
+I'll be right up. 我马上就上来。
+infected files. 感染的文件。
+virus scan 病毒扫描。
+It turns out that. 结果是。
+browsing the internet.  浏览互联网。
+anti-virus software 防病毒软件。
+updated regularly. 定期更新。
+Yours wasn't up to date. 你的不是最新的。
+acting strangely. 行为异常。
+It's acting up again. 它又开始发作了。
