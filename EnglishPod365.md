@@ -1,9 +1,14 @@
-Putting it together.
+**vocabulary preview**
+on our vocabulary preview we'll look at a few important words that will help you to understand the dialogue a little bit better.
 
-Fluency Builder：
-In Fluency Builder, we give you some great useful
-phrases to help you express your ideas clearly .
-我们给你一些很好的的、实用的短语来帮助你清楚地表达你的想法。
+
+**Putting it together**  
+'putting it together'helps you put language together.It helps you be more fluent by knowing how words fit together.  
+'putting it together'帮助你把语言放在一起。通过了解单词是如何组合在一起的，它可以帮助你说得更流利。
+
+**Fluency Builder**  
+In Fluency Builder, we give you some great useful phrases to help you express your ideas clearly.  
+在'Fluency Builder'环节,我们给你一些很好的的、实用的短语来帮助你清楚地表达你的想法。
 
 
 # 1：difficult customer 难对付的顾客
@@ -111,3 +116,36 @@ updated regularly. 定期更新。
 Yours wasn't up to date. 你的不是最新的。
 acting strangely. 行为异常。
 It's acting up again. 它又开始发作了。
+
+# 8：What's Your Name Again 你叫什么名字来着？  
+In a bit of a hurry. 有点着急  
+Contact details. 联系方式。  
+slipped my mind. 我忘记了。  
+Around here. 在这附近  
+embarrassing, 尴尬  
+family reunion 家庭团聚  
+cousins 堂/表兄弟姐妹  
+business setting. 商业环境。  
+right around the corner.就在拐角处。  
+neighborhood 社区  
+it;it happens to me all the time.I'm terrible with names too. 这事总在我身上发生。我记名字也是很糟糕。  
+
+# 9 silence please  
+tone 语气  
+sarcastic 讽刺的
+polite.  
+It's so inconsiderate! 这太不考虑别人的感受了
+making so much noise. 发出如此多的声音。吵死了
+not such a big deal 不是什么大事。
+Ecuador 厄瓜多尔  
+
+# 10 Driving Sales 驱动销售  
+Promotion 促销  
+brilliant 聪明的  
+be here any minute 随时到  
+it sounds like something we should consider. 听起来我们应该考虑一下。  
+it sounds more formal even,at times. 听起来更正式，有时。  
+two-for-one promotion, 买一送一的促销活动，  
+match the competitors 与竞争对手抗衡  
+It'll never fly. 这行不通的  
+sell bikinis in Alaska? 在阿拉斯加出售比基尼？
