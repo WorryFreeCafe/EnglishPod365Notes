@@ -133,7 +133,7 @@ it;it happens to me all the time.I'm terrible with names too. 这事总在我身
 # 9 silence please  
 tone 语气  
 sarcastic 讽刺的
-polite.  
+polite 礼貌的  
 It's so inconsiderate! 这太不考虑别人的感受了
 making so much noise. 发出如此多的声音。吵死了
 not such a big deal 不是什么大事。
