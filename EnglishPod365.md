@@ -135,9 +135,9 @@ tone 语气
 sarcastic 讽刺的
 polite 礼貌的  
 It's so inconsiderate! 这太不考虑别人的感受了
-making so much noise. 发出如此多的声音。吵死了
-not such a big deal 不是什么大事。
-Ecuador 厄瓜多尔  
+making so much noise. 发出如此多的声音，吵死了
+not such a big deal 不是什么大事  
+keeping it down 保持安静    
 
 # 10 Driving Sales 驱动销售  
 Promotion 促销  
@@ -149,3 +149,95 @@ two-for-one promotion, 买一送一的促销活动，
 match the competitors 与竞争对手抗衡  
 It'll never fly. 这行不通的  
 sell bikinis in Alaska? 在阿拉斯加出售比基尼？
+
+# 11 New Guy in Town  
+if you heard 听没听说？  
+down the road 路那头  
+strange 奇怪的  
+You have to fill me in. 你得告诉我  
+brought over 带了、带来、带去
+housewarming 乔迁庆宴
+practically kicked me out 几乎是把我赶了出来  
+peek 偷看  
+pulled into his driveway 停在他的车道上  
+dropped off 放下 
+rectangular 长方形的、矩形的  
+coffin 棺材  
+scared the heck out of me 吓死我了  
+
+# 12 Cleaning the House  
+such a mess 一团糟  
+tidy up a bit 整理一下  
+spotless 整洁的
+middle of something 忙着点事  
+a list of chores 家务清单  
+do the dishes 洗碗  
+groceries 杂货；食品；生活用品  
+sweep and mop the floors 扫地并拖地
+furniture needs to be dusted 家具需要掸掸灰尘  
+bottle of wine 一瓶葡萄酒  
+way home 回家的路
+set the table 摆好餐具  
+Just a sec 等会儿  
+vacuum this rug 用吸尘器吸地毯  
+
+# 13 Out Of Control Spending
+agenda 待议事项 议题  
+profit and loss statement 收支表、损益表  
+expenses are through the roof 开支高得离谱  
+These numbers are off the charts 这些数字破表了  
+expenditures on entertainment and travel 娱乐和旅游支出  
+The list goes on and on 这样的例子不胜枚举  
+that will be all 这就是全部  
+very thorough analysis 非常透彻的分析  
+
+# 14 I’m in Debt   
+this recession has hit me pretty hard  这次经济衰退对我打击很大  
+debt 欠款、负债  
+mortgage 按揭、抵押贷款  
+college tuition 大学学费  
+loan 借款  
+broke 破产  
+stock market crash 股灾  
+
+# 15 I’m sorry, I love you  
+I feel terrible 我感觉很糟糕、我很难过  
+didn’t mean to knock you over 不是故意把你撞到  
+My tire, just exploded 我的轮胎爆了  
+an accident 一场意外  
+accept my apologies 接受我的道歉  
+seem really familiar 看起来很熟悉  
+What a coincidence 真巧啊  
+not too badly hurt 伤得不重  
+calling an ambulance 叫救护车  
+canceling my appointment 取消我的预约  
+
+# 16 Turn left here  
+make a left  
+speed up  
+What’s the rush  
+step on it  
+nuts  
+run a red light  
+The freeway will be packed at this hour 这个时候高速公路上会挤满人  
+take a side street 走条小巷  
+Having a fit is not  going to help 大发脾气是没有用的  
+short cut 捷径  
+cut though 穿过  
+made it 做到了  
+such a geek 真是个怪咖  
+
+# 17 Here Comes the Bride  
+finally getting married 终于结婚了  
+it’s about time 是时候了  
+Don’t be mean 别这么刻薄  
+aisle 走廊  
+bridesmaids 伴娘团  
+dresses 连衣裙、穿着  
+flower girl and the ring bearer 花童和（婚礼的）捧戒男孩  
+starving 饥饿的  
+gorgeous 漂亮的  
+groom’s niece and nephew 新郎的侄女和侄子  
+the reception is canceled 接待会结束了  
+
+
