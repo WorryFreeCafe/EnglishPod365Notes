@@ -1,12 +1,12 @@
-**vocabulary preview**
+**vocabulary preview** 词汇预览  
 on our vocabulary preview we'll look at a few important words that will help you to understand the dialogue a little bit better.
+在我们的词汇预览中，我们将学习一些重要的单词，这些单词可以帮助你稍微理解对话
 
-
-**Putting it together**  
+**Putting it together** 组合起来  
 'putting it together'helps you put language together.It helps you be more fluent by knowing how words fit together.  
 'putting it together'帮助你把语言放在一起。通过了解单词是如何组合在一起的，它可以帮助你说得更流利。
 
-**Fluency Builder**  
+**Fluency Builder** 
 In Fluency Builder, we give you some great useful phrases to help you express your ideas clearly.  
 在'Fluency Builder'环节,我们给你一些很好的的、实用的短语来帮助你清楚地表达你的想法。
 
@@ -130,7 +130,7 @@ right around the corner.就在拐角处。
 neighborhood 社区  
 it;it happens to me all the time.I'm terrible with names too. 这事总在我身上发生。我记名字也是很糟糕。  
 
-# 9 silence please  
+# 9 silence please 请安静  
 tone 语气  
 sarcastic 讽刺的
 polite 礼貌的  
@@ -150,7 +150,7 @@ match the competitors 与竞争对手抗衡
 It'll never fly. 这行不通的  
 sell bikinis in Alaska? 在阿拉斯加出售比基尼？
 
-# 11 New Guy in Town  
+# 11 New Guy in Town 新搬来的人  
 if you heard 听没听说？  
 down the road 路那头  
 strange 奇怪的  
@@ -165,7 +165,7 @@ rectangular 长方形的、矩形的
 coffin 棺材  
 scared the heck out of me 吓死我了  
 
-# 12 Cleaning the House  
+# 12 Cleaning the House 打扫房子  
 such a mess 一团糟  
 tidy up a bit 整理一下  
 spotless 整洁的
@@ -181,7 +181,7 @@ set the table 摆好餐具
 Just a sec 等会儿  
 vacuum this rug 用吸尘器吸地毯  
 
-# 13 Out Of Control Spending
+# 13 Out Of Control Spending 支出失控  
 agenda 待议事项 议题  
 profit and loss statement 收支表、损益表  
 expenses are through the roof 开支高得离谱  
@@ -191,7 +191,7 @@ The list goes on and on 这样的例子不胜枚举
 that will be all 这就是全部  
 very thorough analysis 非常透彻的分析  
 
-# 14 I’m in Debt   
+# 14 I’m in Debt  我负债累累  
 this recession has hit me pretty hard  这次经济衰退对我打击很大  
 debt 欠款、负债  
 mortgage 按揭、抵押贷款  
@@ -200,7 +200,7 @@ loan 借款
 broke 破产  
 stock market crash 股灾  
 
-# 15 I’m sorry, I love you  
+# 15 I’m sorry, I love you 对不起，我爱你  
 I feel terrible 我感觉很糟糕、我很难过  
 didn’t mean to knock you over 不是故意把你撞到  
 My tire, just exploded 我的轮胎爆了  
@@ -212,13 +212,13 @@ not too badly hurt 伤得不重
 calling an ambulance 叫救护车  
 canceling my appointment 取消我的预约  
 
-# 16 Turn left here  
-make a left  
-speed up  
-What’s the rush  
-step on it  
-nuts  
-run a red light  
+# 16 Turn left here 这里左转  
+make a left 左转  
+speed up 加速  
+What’s the rush 急什么呢？  
+step on it 加快速度  
+nuts 疯子 
+run a red light 闯红灯  
 The freeway will be packed at this hour 这个时候高速公路上会挤满人  
 take a side street 走条小巷  
 Having a fit is not  going to help 大发脾气是没有用的  
